@@ -20,4 +20,5 @@ dependencies = [
     "scikit-learn",
     "pandas>=2.3.3",
     "requests>=2.32.5",
+    "importlib-resources>=7.1.0",
 ]
