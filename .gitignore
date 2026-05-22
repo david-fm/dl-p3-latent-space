@@ -221,3 +221,7 @@ __marimo__/
 uv.lock
 
 experiments/
+lab_.ipynb
+experiments.zip
+
+.DS_Store
